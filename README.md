@@ -1,3 +1,4 @@
+```typescript
 【🎃】 INFORMATION 【🎃】
 
 ╭・🏆・Discord: E0n3x#6750
@@ -13,3 +14,5 @@
 ├・❄・ Requirements: Windows 7-11
 ├・❄・ If you share your account, you got banned.
 ╰・❄・Please do not share your account. :P
+
+```
