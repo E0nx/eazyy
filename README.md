@@ -1,0 +1,2 @@
+# eazyy
+Minecraft advanced autoclicker
