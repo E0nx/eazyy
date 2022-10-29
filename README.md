@@ -9,7 +9,7 @@
 
 【📢】 DESCRIPTION 【📢】
 
-╭・❄・EaZy is private autoclicker & vanitylauncher.
+╭・❄・NightMare is private autoclicker & vanitylauncher & vape crack.
 ├・❄・ You need a Invite/Account to login.
 ├・❄・ Requirements: Windows 10-11 (64 bit)
 ├・❄・ If you share your account, you got banned.
