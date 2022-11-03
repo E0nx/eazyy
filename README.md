@@ -19,7 +19,7 @@
             Start <code>NightMare.py</code>
         </li>
     </ol>
-    <br/><br/>
+    <br/>
 </div>
 
 ```typescript
