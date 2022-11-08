@@ -1,3 +1,7 @@
+#
+# If give this error: [Please contact with support with this error. (Fi-821)], It means the NightMare.py file size not equal with the file size in the database.
+#
+
 import wmi ,os.path
 
 f = f = wmi.WMI()
