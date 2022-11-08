@@ -1,3 +1,7 @@
+#
+# IDK :)
+#
+
 import base64, hashlib, os, subprocess, tempfile, sys
 from Crypto.Cipher import AES
 
