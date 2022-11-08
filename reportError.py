@@ -4,7 +4,7 @@
 
 import wmi ,os.path
 
-f = f = wmi.WMI()
+f = wmi.WMI()
 
 file_exists = os.path.exists('NightMare.py')
 
